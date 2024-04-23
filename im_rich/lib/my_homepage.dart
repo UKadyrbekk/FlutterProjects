@@ -10,7 +10,7 @@ class MyHomePage extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.white10,
           title: Center(child: Text('Im Rich')),
-          elevation: 5,
+          elevation: 15,
         ),
         body: Center(
           child: Column(

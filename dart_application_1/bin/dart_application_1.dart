@@ -11,13 +11,13 @@ void main() {
 //int a = 10;
 //double b = 2.5;
 
-int a = 10;
-int b = 5;
-var result = a * b;
-var result2 = a + b;
-var result3 = a - b;
+// int a = 10;
+// int b = 5;
+// var result = a * b;
+// var result2 = a + b;
+// var result3 = a - b;
 
-print (result3);
+// print (result3);
 
 
 
